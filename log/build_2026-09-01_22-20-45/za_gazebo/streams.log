@@ -1,0 +1,52 @@
+[0.012s] Invoking command in '/home/u/zabot/build/za_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/u/zabot/src/za_gazebo -DCMAKE_INSTALL_PREFIX=/home/u/zabot/install/za_gazebo
+[0.127s] -- The C compiler identification is GNU 11.4.0
+[0.378s] -- The CXX compiler identification is GNU 11.4.0
+[0.545s] -- Detecting C compiler ABI info
+[0.642s] -- Detecting C compiler ABI info - done
+[0.646s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.646s] -- Detecting C compile features
+[0.646s] -- Detecting C compile features - done
+[0.648s] -- Detecting CXX compiler ABI info
+[0.734s] -- Detecting CXX compiler ABI info - done
+[0.738s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.738s] -- Detecting CXX compile features
+[0.738s] -- Detecting CXX compile features - done
+[0.741s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.834s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.894s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.936s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.937s] -- Added test 'lint_cmake' to check CMake code style
+[0.938s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.939s] -- Added test 'xmllint' to check XML markup files
+[0.940s] -- Configuring done
+[0.946s] -- Generating done
+[0.948s] -- Build files have been written to: /home/u/zabot/build/za_gazebo
+[0.952s] Invoked command in '/home/u/zabot/build/za_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/u/zabot/src/za_gazebo -DCMAKE_INSTALL_PREFIX=/home/u/zabot/install/za_gazebo
+[0.954s] Invoking command in '/home/u/zabot/build/za_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/u/zabot/build/za_gazebo -- -j12 -l12
+[0.977s] Invoked command in '/home/u/zabot/build/za_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/u/zabot/build/za_gazebo -- -j12 -l12
+[0.982s] Invoking command in '/home/u/zabot/build/za_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/u/zabot/build/za_gazebo
+[0.986s] -- Install configuration: ""
+[0.986s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/launch
+[0.987s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/launch/bot.launch.py
+[0.988s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/urdf
+[0.988s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/urdf/zabot_ackerman.xacro
+[0.988s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/urdf/za_ackerman_base.xacro
+[0.988s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/urdf/za_ackerman_gazebo_core.xacro
+[0.989s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/worlds
+[0.989s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/worlds/empty.world
+[0.990s] -- Installing: /home/u/zabot/install/za_gazebo/share/ament_index/resource_index/package_run_dependencies/za_gazebo
+[0.991s] -- Installing: /home/u/zabot/install/za_gazebo/share/ament_index/resource_index/parent_prefix_path/za_gazebo
+[0.992s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/environment/ament_prefix_path.sh
+[0.992s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/environment/ament_prefix_path.dsv
+[0.992s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/environment/path.sh
+[0.992s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/environment/path.dsv
+[0.992s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/local_setup.bash
+[0.992s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/local_setup.sh
+[0.992s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/local_setup.zsh
+[0.993s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/local_setup.dsv
+[0.993s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/package.dsv
+[0.993s] -- Installing: /home/u/zabot/install/za_gazebo/share/ament_index/resource_index/packages/za_gazebo
+[0.994s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/cmake/za_gazeboConfig.cmake
+[0.994s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/cmake/za_gazeboConfig-version.cmake
+[0.994s] -- Installing: /home/u/zabot/install/za_gazebo/share/za_gazebo/package.xml
+[0.996s] Invoked command in '/home/u/zabot/build/za_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/u/zabot/build/za_gazebo

@@ -1,0 +1,6 @@
+Invoking command in '/home/u/zabot/build/za_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/u/zabot/src/za_gazebo -DCMAKE_INSTALL_PREFIX=/home/u/zabot/install/za_gazebo
+Invoked command in '/home/u/zabot/build/za_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/u/zabot/src/za_gazebo -DCMAKE_INSTALL_PREFIX=/home/u/zabot/install/za_gazebo
+Invoking command in '/home/u/zabot/build/za_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/u/zabot/build/za_gazebo -- -j12 -l12
+Invoked command in '/home/u/zabot/build/za_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/u/zabot/build/za_gazebo -- -j12 -l12
+Invoking command in '/home/u/zabot/build/za_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/u/zabot/build/za_gazebo
+Invoked command in '/home/u/zabot/build/za_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/u/zabot/build/za_gazebo
